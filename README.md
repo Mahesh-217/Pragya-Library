@@ -8,3 +8,6 @@ the following:
 2. Search Books
 3. Edit Books
 4. Delete Books
+
+A module called Levenshtein distance was introduced so that if a book was input but with a typo, then nearest string that's contained in the
+database will be shown
